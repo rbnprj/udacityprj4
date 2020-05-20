@@ -1,0 +1,12 @@
+<paste log output from Kubernetes-mediated prediction, here>
+NAME             READY   STATUS    RESTARTS   AGE
+udacityprj4pod   1/1     Running   1          10m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
